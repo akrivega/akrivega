@@ -1,4 +1,4 @@
-Hello, I am Alexey Krivega; an undergraduate at UC Berkeley studying Astrophysics
+Hello, I am Alexey Krivega; an undergraduate at UC Berkeley studying Physics.
 
 You can reach me at krivega.alexey@berkeley.edu
 <!---
